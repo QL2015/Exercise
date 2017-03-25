@@ -1,0 +1,11 @@
+.a1{font-size: 1.125em; color: #84C1FF; text-decoration: none;}
+.a1:hover{text-decoration: underline;color: Blue;}
+.a2{font-size: 1.25em; color: white;}
+.a2:hover{text-decoration: underline;color: Red;}
+.div1{margin:0 auto;text-align: center;width: 70%;font-size: 1.125em; height:40px;}
+img{max-width: 100%;}
+table{border:1px solid white; width:80%; font-size:1.125em; align: left}
+ol{font-size: 1.125em; line-height:2}
+ul{font-size: 1.125em; line-height:2}
+body{font-family:Arial; margin:0;}
+.p1{line-height: 2; font-size: 1.125em}
